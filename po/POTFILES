@@ -1,0 +1,6 @@
+data/io.outlaw.exodus.desktop.in
+data/io.outlaw.exodus.appdata.xml.in
+data/io.outlaw.exodus.gschema.xml
+src/main.c
+src/exodus-window.c
+src/exodus-window.ui

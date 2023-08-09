@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=exodus
+Exec=exodus
+Icon=io.outlaw.exodus
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
