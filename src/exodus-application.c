@@ -20,6 +20,7 @@
  */
 
 #include "config.h"
+#include <linux/kernel.h>
 
 #include "exodus-application.h"
 #include "exodus-window.h"
