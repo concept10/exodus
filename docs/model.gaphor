@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gaphor xmlns="http://gaphor.sourceforge.net/model" version="3.0" gaphor-version="2.19.3">
+<StyleSheet id="58d6989a-66f8-11ec-b4c8-0456e5e540ed"/>
+<Package id="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed">
+<name>
+<val>New model</val>
+</name>
+<ownedDiagram>
+<reflist>
+<ref refid="58d6c536-66f8-11ec-b4c8-0456e5e540ed"/>
+</reflist>
+</ownedDiagram>
+<ownedType>
+<reflist>
+<ref refid="b474e562-367d-11ee-b92b-87a3411ea4bb"/>
+<ref refid="bce00982-367d-11ee-96e6-87a3411ea4bb"/>
+<ref refid="c4c89c45-367d-11ee-8831-87a3411ea4bb"/>
+<ref refid="f19e2804-367d-11ee-936a-87a3411ea4bb"/>
+</reflist>
+</ownedType>
+</Package>
+<Diagram id="58d6c536-66f8-11ec-b4c8-0456e5e540ed">
+<element>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</element>
+<name>
+<val>New diagram</val>
+</name>
+<ownedPresentation>
+<reflist>
+<ref refid="b47615d9-367d-11ee-9782-87a3411ea4bb"/>
+<ref refid="bce11561-367d-11ee-938a-87a3411ea4bb"/>
+<ref refid="c4c90779-367d-11ee-9a09-87a3411ea4bb"/>
+<ref refid="d4a83c68-367d-11ee-98c3-87a3411ea4bb"/>
+<ref refid="f19f6433-367d-11ee-902e-87a3411ea4bb"/>
+</reflist>
+</ownedPresentation>
+</Diagram>
+<Class id="b474e562-367d-11ee-b92b-87a3411ea4bb">
+<name>
+<val>GtkApplication</val>
+</name>
+<package>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="b47615d9-367d-11ee-9782-87a3411ea4bb"/>
+</reflist>
+</presentation>
+</Class>
+<ClassItem id="b47615d9-367d-11ee-9782-87a3411ea4bb">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 205.32421875, 257.84375)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>132.96481323242188</val>
+</width>
+<height>
+<val>89.9609375</val>
+</height>
+<diagram>
+<ref refid="58d6c536-66f8-11ec-b4c8-0456e5e540ed"/>
+</diagram>
+<subject>
+<ref refid="b474e562-367d-11ee-b92b-87a3411ea4bb"/>
+</subject>
+</ClassItem>
+<Interface id="bce00982-367d-11ee-96e6-87a3411ea4bb">
+<name>
+<val>New Interface</val>
+</name>
+<package>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="bce11561-367d-11ee-938a-87a3411ea4bb"/>
+</reflist>
+</presentation>
+</Interface>
+<InterfaceItem id="bce11561-367d-11ee-938a-87a3411ea4bb">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 132.23046875, 435.11328125)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>126.81253051757812</val>
+</width>
+<height>
+<val>74.0</val>
+</height>
+<diagram>
+<ref refid="58d6c536-66f8-11ec-b4c8-0456e5e540ed"/>
+</diagram>
+<subject>
+<ref refid="bce00982-367d-11ee-96e6-87a3411ea4bb"/>
+</subject>
+<folded>
+<val>0</val>
+</folded>
+</InterfaceItem>
+<Device id="c4c89c45-367d-11ee-8831-87a3411ea4bb">
+<name>
+<val>s7-device</val>
+</name>
+<package>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="c4c90779-367d-11ee-9a09-87a3411ea4bb"/>
+</reflist>
+</presentation>
+</Device>
+<NodeItem id="c4c90779-367d-11ee-9a09-87a3411ea4bb">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 596.85546875, 288.78125)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>50.0</val>
+</height>
+<diagram>
+<ref refid="58d6c536-66f8-11ec-b4c8-0456e5e540ed"/>
+</diagram>
+<subject>
+<ref refid="c4c89c45-367d-11ee-8831-87a3411ea4bb"/>
+</subject>
+</NodeItem>
+<MetadataItem id="d4a83c68-367d-11ee-98c3-87a3411ea4bb">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 13.574203491210938, -115.375)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>139.0</val>
+</width>
+<height>
+<val>120.0</val>
+</height>
+<createdBy>
+<val>outlaw-marine</val>
+</createdBy>
+<createdOn>
+<val>2023-08-08</val>
+</createdOn>
+<description>
+<val>New diagram</val>
+</description>
+<diagram>
+<ref refid="58d6c536-66f8-11ec-b4c8-0456e5e540ed"/>
+</diagram>
+<revision>
+<val>1.0</val>
+</revision>
+</MetadataItem>
+<Requirement id="f19e2804-367d-11ee-936a-87a3411ea4bb">
+<name>
+<val>redundancy-requirement</val>
+</name>
+<package>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="f19f6433-367d-11ee-902e-87a3411ea4bb"/>
+</reflist>
+</presentation>
+</Requirement>
+<RequirementItem id="f19f6433-367d-11ee-902e-87a3411ea4bb">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 370.0702819824219, -14.31244533717944)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>104.25390625</val>
+</width>
+<height>
+<val>84.82813262939453</val>
+</height>
+<diagram>
+<ref refid="58d6c536-66f8-11ec-b4c8-0456e5e540ed"/>
+</diagram>
+<subject>
+<ref refid="f19e2804-367d-11ee-936a-87a3411ea4bb"/>
+</subject>
+</RequirementItem>
+</gaphor>
